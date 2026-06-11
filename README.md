@@ -6,7 +6,7 @@ This repository hosts the legal documents for the **Drenched** water tracking ap
 
 | File | URL |
 |------|-----|
-| [Privacy Policy](privacy-policy.html) | `https://SRPowerBoy.github.io/Drenched-Legal/privacy-policy.html` |
+| [Privacy Policy](privacy-policy.html) | https://srpowerboy.github.io/Drenched-Legal/privacy-policy.html |
 https://github.com/SRPowerBoy/Drenched-Legal/blob/main/privacy-policy.html
 ## About the Privacy Policy
 
