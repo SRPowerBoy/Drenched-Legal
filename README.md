@@ -6,7 +6,7 @@ This repository hosts the legal documents for the **Drenched** water tracking ap
 
 | File | URL |
 |------|-----|
-| [Privacy Policy](privacy-policy.html) | https://SRPowerBoy.github.io/Drenched-Legal/privacy-policy.html |
+| [Privacy Policy](privacy-policy.html) | https://SRPowerBoy.github.io/Drenched-Legal/privacy-policy.html |or
 ## About the Privacy Policy
 
 Drenched stores all user data (hydration logs, settings, preferences) exclusively on-device using Android Room and DataStore. No data is transmitted off-device. The only network activity is Google Play Billing for subscription/purchase processing, which is handled entirely by Google.
