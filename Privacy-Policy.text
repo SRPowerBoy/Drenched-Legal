@@ -1,50 +1,93 @@
-Privacy Policy for Drenched
-Last updated: 24 July 2026
-
-Drenched is a hydration tracker for Android. This policy explains what the app does and does not do with your information. The short version: your hydration data never leaves your phone, and there is no account to sign up for.
-
-What Drenched stores on your device
-Everything you do in Drenched is saved locally on your phone, in the app's own private storage:
-
-Your drink log — when you logged a drink, how much, and what type
-Your daily goal, cup size, and unit preference (ml or oz)
-Your streak, XP, level, and unlocked achievements
-Your cloud's name, appearance choices, and companion bond progress
-Your reminder and notification settings
-This data is not uploaded anywhere. It is not backed up to our servers, because there are no servers. If you uninstall Drenched, this data is deleted with it.
-
-What Drenched does not do
-No account, sign-up, email address, or login
-No advertising, and no advertising identifiers
-No analytics, tracking, profiling, or behavioural measurement
-No selling or sharing of personal information with anyone
-No location, contacts, photos, microphone, or camera access
-Purchases
-Drenched offers an optional paid upgrade ("Max"). Purchases are handled by Google Play Billing and by RevenueCat, which manages subscription status on our behalf.
-
-When you make or restore a purchase, RevenueCat receives a randomly generated anonymous app user ID along with purchase and subscription details from Google Play (such as which product was bought, and whether the subscription is active). This is used solely to unlock and keep your Max features unlocked across reinstalls. It is not linked to your name or email address by Drenched.
-
-Google's handling of your payment details is governed by the Google Privacy Policy. RevenueCat's handling is governed by the RevenueCat Privacy Policy.
-
-Drenched itself never sees or stores your payment card, billing address, or Google account details.
-
-Permissions Drenched requests
-Internet — used only to verify your purchase status with RevenueCat and Google Play. Your hydration data is never transmitted.
-Notifications — used to send you hydration reminders, drink-ready alerts, and your optional bedtime reminder. You can decline this and use the app normally, or turn reminders off at any time in Settings.
-Vibrate — used for reminder alerts and for the tactile feedback when you press a button.
-Alarms / exact alarms — used only to deliver your bedtime reminder at the time you chose.
-Children
-Drenched is not directed at children under 13, and we do not knowingly collect personal information from children. Because the app collects no personal information from anyone, there is nothing to delete on request.
-
-Your control over your data
+PRIVACY POLICY FOR DRENCHED
+Last updated: 31 July 2026
+Drenched is a hydration tracker for Android. This policy explains what the app
+does and does not do with your information. The short version: your hydration
+data never leaves your phone, and there is no account to sign up for.
+WHAT DRENCHED STORES ON YOUR DEVICE
+-----------------------------------
+Everything you do in Drenched is saved locally on your phone, in the app's own
+private storage:
+  - Your drink log - when you logged a drink, how much, and what type
+  - Your daily goal, cup size, and unit preference (ml or oz)
+  - Your streak, XP, level, and unlocked achievements
+  - Your cloud's name, appearance choices, and companion bond progress
+  - Your reminder and notification settings
+This data is not uploaded anywhere. It is not backed up to our servers, because
+there are no servers. If you uninstall Drenched, this data is deleted with it.
+WHAT DRENCHED DOES NOT DO
+-------------------------
+  - No account, sign-up, email address, or login
+  - No advertising, and no advertising identifiers
+  - No analytics, tracking, profiling, or behavioural measurement
+  - No selling or sharing of personal information with anyone
+  - No location, contacts, photos, microphone, or camera access
+THE UPDATE CHECK
+----------------
+When Drenched starts, it fetches one small public file from GitHub to find out
+whether the installed version is still supported. This is the only network
+request the app makes on its own.
+The request sends nothing about you: no hydration data, no settings, and no
+identifier of any kind. As with any request to any website, GitHub can see the
+IP address the request came from. That is unavoidable for any network request,
+and it is not something Drenched collects, receives, stores, or has access to.
+If the request fails for any reason, the app carries on exactly as normal.
+PURCHASES
+---------
+The current release of Drenched contains no in-app purchases and no paid
+upgrade. Nothing can be bought inside the app, and no billing service is
+contacted. The rest of this section applies only to future versions that offer
+the optional paid upgrade ("Max").
+In those versions, purchases are handled by Google Play Billing and by
+RevenueCat, which manages subscription status on our behalf.
+When you make or restore a purchase, RevenueCat receives a randomly generated
+anonymous app user ID along with purchase and subscription details from Google
+Play (such as which product was bought, and whether the subscription is active).
+This is used solely to unlock and keep your Max features unlocked across
+reinstalls. It is not linked to your name or email address by Drenched.
+Google's handling of your payment details is governed by the Google Privacy
+Policy:      https://policies.google.com/privacy
+RevenueCat's handling is governed by the RevenueCat Privacy Policy:
+             https://www.revenuecat.com/privacy
+Drenched itself never sees or stores your payment card, billing address, or
+Google account details.
+PERMISSIONS DRENCHED REQUESTS
+-----------------------------
+  Internet
+      Used only for the version check described above and, in versions that
+      offer the paid upgrade, to verify your purchase status with RevenueCat
+      and Google Play. Your hydration data is never transmitted.
+  Notifications
+      Used to send you hydration reminders and your optional bedtime reminder.
+      You can decline this and use the app normally, or turn reminders off at
+      any time in Settings.
+  Vibrate
+      Used for reminder alerts and for the tactile feedback when you press a
+      button.
+  Alarms / exact alarms
+      Used only to deliver your bedtime reminder at the time you chose.
+A NOTE ON HEALTH
+----------------
+Drenched estimates a daily water goal from details you enter, and it warns you
+when you drink well past that goal. These are estimates and general guidance
+only. Drenched is not a medical device and does not provide medical advice. If
+you have a health condition affecting how much you should drink, follow your
+doctor rather than this app.
+CHILDREN
+--------
+Drenched is not directed at children under 13, and we do not knowingly collect
+personal information from children. Because the app collects no personal
+information from anyone, there is nothing to delete on request.
+YOUR CONTROL OVER YOUR DATA
+---------------------------
 All of your data lives on your device, so you are in full control of it:
-
-Turn off any reminder or notification in Settings
-Uninstalling the app permanently deletes all of your Drenched data
-Changes to this policy
-If this policy changes, the updated version will be posted at this same address with a new "Last updated" date. Material changes will also be noted in the app's release notes.
-
-Contact
+  - Turn off any reminder or notification in Settings
+  - Uninstalling the app permanently deletes all of your Drenched data
+CHANGES TO THIS POLICY
+----------------------
+If this policy changes, the updated version will be posted at this same address
+with a new "Last updated" date. Material changes will also be noted in the app's
+release notes.
+CONTACT
+-------
 Questions about this policy or about your data:
-
-sethr4814@gmail.com
+    sethr4814@gmail.com
